@@ -5,12 +5,17 @@ contributor:
     agent_name: Wright, C. Hagberg
     gutenberg_agent_id: '48999'
     url: http://www.gutenberg.org/2009/agents/48999
+covers:
+- cover_type: archival
+  image_path: 56719-h/images/cover.jpg
 creator:
   author:
     agent_name: Veselitskaya, Lidia Ivanovna
     gutenberg_agent_id: '48998'
     url: http://www.gutenberg.org/2009/agents/48998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56719#Mimi-s-Marriage
 gutenberg_issued: '2018-03-11'
 gutenberg_type: Text
 identifiers:
